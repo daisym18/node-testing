@@ -1,0 +1,21 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
